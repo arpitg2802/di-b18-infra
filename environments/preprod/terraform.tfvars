@@ -1,10 +1,10 @@
 rgs = {
   rg1 = {
-    name     = "rg-chor-arpit1"
+    name     = "rg-chor-arpit11"
     location = "centralindia"
   }
   rg2 = {
-    name     = "rg-chor-arpit-2"
+    name     = "rg-chor-arpit-22"
     location = "centralindia"
   }
 }
